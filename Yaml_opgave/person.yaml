@@ -1,0 +1,7 @@
+person:
+  name: Nikolaus
+  age: 22
+  hobbies:
+    - Football
+    - Reading
+    - Movies
